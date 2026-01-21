@@ -1,0 +1,22 @@
+{
+  "name": "bitcoin-address-watcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuzupKev/bitcoin-address-watcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuzupKev/bitcoin-address-watcher/issues"
+  },
+  "homepage": "https://github.com/wuzupKev/bitcoin-address-watcher#readme"
+}
